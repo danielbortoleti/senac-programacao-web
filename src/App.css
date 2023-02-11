@@ -2,6 +2,32 @@
   text-align: center;
 }
 
+.noticia1{
+  display: flex;
+  margin-bottom: 5%;
+  text-align: center;
+  justify-content: center;
+}
+
+.conteudo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.noticia2{
+  text-align: center;
+  justify-content: center;
+}
+
+.img {
+  float: left;
+}
+
+.img2 {
+  float: right;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
